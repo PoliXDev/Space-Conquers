@@ -1,4 +1,3 @@
-Space Conquers: Arcade Game Developed in Python
 Space Conquers is an arcade game developed in Python as part of the coursework at ConquerBlocks Academy. The game leverages the Pygame library, which provides essential functionalities for graphics, sound, and event control. Additionally, it uses several other Python libraries:
 
 -sys for system management,
