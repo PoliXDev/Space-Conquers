@@ -7,7 +7,7 @@ Space Conquers is an arcade game developed in Python as part of the coursework a
 -datetime for recording game session timestamps,
 -math for visual effect calculations.
 
-The gameplay revolves around a player-controlled spaceship that must face waves of enemies across various levels. Key mechanics include shooting, a lives system, temporary invulnerability, particle effects for explosions, high scores, and progressively increasing difficulty. The interface features a main menu with options to play, view instructions, and check scores. The game experience is enhanced with modern visual effects such as neon glows, particle explosions, and a space-themed soundtrack.
+The gameplay revolves around a player-controlled spaceship that must face waves of enemies across various levels. Key mechanics include shooting, a lives system, temporary invulnerability, particle effects for explosions, high scores, and progressively increasing difficulty. The interface features a main menu with options to play, view instructions, and check scores.
 
 
 To use the game:
